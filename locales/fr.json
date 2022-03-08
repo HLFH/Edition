@@ -8,5 +8,6 @@
     "This post is for subscribers on the {{products}} only": "Cet article est réservé aux abonnés de {{products}}",
     "Upgrade now": "Mettre à niveau maintenant",
     "Subscribe now": "S'abonner maintenant",
-    "Already have an account? Sign in": "Vous avez déjà un compte ? Connectez-vous"
+    "Already have an account? Sign in": "Vous avez déjà un compte ? Connectez-vous",
+    "Published with Ghost": "Publié avec Ghost"
 }
