@@ -2,6 +2,9 @@
 
 The newsletter theme for [Ghost](http://github.com/tryghost/ghost/). This is the latest development version of Edition! If you're just looking to download the latest release, download the theme [here](https://github.com/TryGhost/Edition/archive/refs/heads/main.zip).
 
+#### This fork based on last master of 06/03/2022 supports both French and English locales
+##### Feature added: Integration with commenting system [Isso](https://github.com/posativ/isso) 
+
 &nbsp;
 
 # Development
