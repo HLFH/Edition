@@ -2,10 +2,10 @@
 
 The newsletter theme for [Ghost](http://github.com/tryghost/ghost/). This is the latest development version of Edition! If you're just looking to download the latest release, download the theme [here](https://github.com/TryGhost/Edition/archive/refs/heads/main.zip).
 
-#### This fork based on last master of 06/03/2022 supports both French and English locales
-##### Feature added: Integration with commenting system [Isso](https://github.com/posativ/isso) 
+#### This fork based on last master of 08/03/2022 supports both French and English locales
+##### Feature added: Integration with commenting system [Isso](https://github.com/posativ/isso) and [Ghost Portal](https://github.com/TryGhost/Portal) for newsletters/memberships
 
-&nbsp;
+One showstopper with Ghost Portal: [lack of i18n support](https://github.com/TryGhost/Portal/pull/119).
 
 # Development
 
