@@ -2,5 +2,11 @@
     "Subscribe": "S'abonner",
     "Your email address": "Votre adresse email",
     "Featured articles": "Articles mis en avant",
-    "Load more": "Articles suivants"
+    "Load more": "Articles suivants",
+    "This post is for paying subscribers only": "Cet article est réservé aux abonnés payants",
+    "This post is for subscribers only": "Cet article est réservé aux abonnés",
+    "This post is for subscribers on the {{products}} only": "Cet article est réservé aux abonnés de {{products}}",
+    "Upgrade now": "Mettre à niveau maintenant",
+    "Subscribe now": "S'abonner maintenant",
+    "Already have an account? Sign in": "Vous avez déjà un compte ? Connectez-vous"
 }
