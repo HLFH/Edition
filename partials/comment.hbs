@@ -1,9 +1,10 @@
-{{!--
 {{#post}}
     {{#if access}}
         <div class="comment container small">
-            If you want to embed comments, this is a good place to do it!
+            <section class="post-full-comments">
+                <script data-isso="https://comments.dinepont.fr/" src="https://comments.dinepont.fr/js/embed.min.js"></script>
+                <section id="isso-thread"></section>
+            </section>
         </div>
     {{/if}}
 {{/post}}
---}}
